@@ -2,7 +2,7 @@
 
 ## <img src = "readme/images/herokuLogo.png"><a href="https://project2-oscar-watch.herokuapp.com/">Heroku</a> deployed application
 
-## <img src ="readme/images/githubLogo.png"> <a href="https://github.com/Ericcwong/Oscar-Watch">Github</a> code link
+## <img src ="readme/images/githubLogo.png"> <a href="https://github.com/JulieT2319/Oscar-Watch">Github</a> code link
 
 # Collaborators
 #### <img src ="readme/images/githubLogo.png"> Julie Theriault <a href ="https://github.com/JulieT2319">Github</a>
